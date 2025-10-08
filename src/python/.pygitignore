@@ -1,0 +1,7 @@
+.venv/
+.pygit/
+.env.*
+test.py
+uv.lock
+
+__pycache__/

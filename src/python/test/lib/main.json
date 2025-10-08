@@ -1,0 +1,68 @@
+{
+  "./lib.py": {
+    "hash": "0e090eff22c49fec1a3a0f6e5b7d16430477016d",
+    "mode": "100644",
+    "mtime": 1759150957.9788184,
+    "size": 8822
+  },
+  "./.pygitignore": {
+    "hash": "e2351c017488c8084ab8473be0e3ded68ab465af",
+    "mode": "100644",
+    "mtime": 1758992805.2148876,
+    "size": 52
+  },
+  "./pyproject.toml": {
+    "hash": "fc8175dc156288dd2ce0650a67cb3eb1b1762c0f",
+    "mode": "100644",
+    "mtime": 1758960945.3212726,
+    "size": 152
+  },
+  "./README.md": {
+    "hash": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+    "mode": "100644",
+    "mtime": 1758960945.3239603,
+    "size": 0
+  },
+  "./.python-version": {
+    "hash": "24ee5b1be9961e38a503c8e764b7385dbb6ba124",
+    "mode": "100644",
+    "mtime": 1758960945.3228872,
+    "size": 5
+  },
+  "./main.py": {
+    "hash": "1bd3c4c2e69493c48f961993d0f6d5db38a636c1",
+    "mode": "100644",
+    "mtime": 1758982709.9559672,
+    "size": 910
+  },
+  "./pygit.py": {
+    "hash": "5d28fbfe28d24f5714cf070b49c3718acf6710d0",
+    "mode": "100644",
+    "mtime": 1759037539.611588,
+    "size": 1422
+  },
+  "./doc/concepts.md": {
+    "hash": "8ab3ffb1d19a03cfe5f6ee75039563a233d60ea2",
+    "mode": "100644",
+    "mtime": 1759054146.8698475,
+    "size": 52
+  },
+  "./test/main.py": {
+    "hash": "32d95f5406013947a214a60cf32b405667fd6ed8",
+    "mode": "100644",
+    "mtime": 1759151700.8878267,
+    "size": 966
+  },
+  "./test/lib/main.json": {
+    "hash": "76d93923849cac52400d12d737bf331bb814bc3d",
+    "mode": "100644",
+    "mtime": 1759142651.463757,
+    "size": 1220
+  },
+  "./doc/nothing.md": {
+    "hash": "984d8354527cd4a861d2235edcd8e77e0c163605",
+    "mode": "100644",
+    "mtime": 1759151756.197727,
+    "size": 32
+  }
+}
