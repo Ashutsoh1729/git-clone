@@ -292,3 +292,28 @@ class Commit:
             f.write(final_data)
 
         # where to save the hash data
+
+
+class Push:
+    """
+    we have to facilitate to add the functionalities to execute the below functions
+
+    git remote add origin git@github.com:Ashutsoh1729/test-git.git
+    git branch -M main
+    git push -u origin main
+
+    it will first check the following things:
+        1. remote repo info exists or not
+
+    """
+
+    def __init__(self) -> None:
+        pass
+
+    def push(self):
+        pass
+
+
+class remote:
+    def __init__(self):
+        pass
